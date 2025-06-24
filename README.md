@@ -87,6 +87,7 @@ Este proyecto forma parte del programa de formación profesional integral del **
 
 Duración estimada: **48 horas**  
 Autor: [Ing. Leon, E](https://www.linkedin.com/in/phdleon/) 
+
 Instructor: Yonadis del Carmen Pérez Paternina
 
 
