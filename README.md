@@ -37,7 +37,7 @@ Segmentar clientes mediante técnicas de *machine learning no supervisado*, inte
 - Distribuciones y correlaciones
 - Visualizaciones con Seaborn
 
-📔 Notebook: [`01_Exploracion_de_datos.ipynb`](notebooks/01_Exploracion_de_datos.ipynb)
+📔 Notebook: [`01_Exploracion_de_datos.ipynb`](https://colab.research.google.com/drive/1Zpf12n--YCpj6S-2fj82-0kvbZPBLk_Y?usp=sharing)
 
 
 ### Fase 2 – Modelado con K-Means (AA2) ⚙️ 
