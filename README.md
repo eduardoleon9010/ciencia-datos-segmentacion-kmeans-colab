@@ -55,7 +55,7 @@ Segmentar clientes mediante técnicas de *machine learning no supervisado*, inte
 - Interpretación de resultados
 - Comparativa con distintos valores de K
 
-📔 Notebook: [`03_Interpretacion_Clusters.ipynb`](notebooks/03_Interpretacion_Clusters.ipynb)  
+📔 Notebook: [`03_Interpretacion_Clusters.ipynb`](https://colab.research.google.com/drive/1voPiqUYJHim3nAJYcMg-LIdIZ8ODTPRM?usp=drive_link)  
 🎬 Video explicativo: [Ver en YouTube](https://youtube.com/URL-Personalizada)
 
 
