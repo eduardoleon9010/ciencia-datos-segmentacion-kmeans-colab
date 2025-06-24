@@ -46,7 +46,7 @@ Segmentar clientes mediante técnicas de *machine learning no supervisado*, inte
 - Aplicación del modelo y predicción
 - Informe técnico con código comentado
 
-📔 Notebook: [`02_Modelado_KMeans.ipynb`](notebooks/02_Modelado_KMeans.ipynb)  
+📔 Notebook: [`02_Modelado_KMeans.ipynb`](https://colab.research.google.com/drive/1mlYHxAHkh0T_KRZzck-ABhokpJwRUAQV?usp=drive_link)
 📄 Informe: [`docs/informe_markdown_AA2.md`](docs/informe_markdown_AA2.md)
 
 
