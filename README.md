@@ -84,8 +84,7 @@ Segmentar clientes mediante técnicas de *machine learning no supervisado*, inte
 
 Este proyecto forma parte del programa de formación profesional integral del **SENA**, dentro de la competencia:  
 **220501114 – Sistematizar datos masivos con herramientas de analítica.**
-
-Duración estimada: **48 horas**  
+ 
 Autor: [Ing. Leon, E](https://www.linkedin.com/in/phdleon/) 
 
 Instructor: Yonadis del Carmen Pérez Paternina
