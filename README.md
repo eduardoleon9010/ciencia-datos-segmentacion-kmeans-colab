@@ -1,5 +1,5 @@
-#  Ciencia de Datos Aplicada: Segmentación con K-Means 📊
-### Aprende K-Means con Python en Google Colab – Una Guía Académica Paso a Paso
+#  Ciencia de datos aplicada: Segmentación con K-Means 📊
+### Aprende K-Means con Python en Google Colab – Una guía académica
 
 Este repositorio ofrece un recorrido formativo y práctico para aplicar el algoritmo de agrupamiento no supervisado **K-Means**, utilizando **Python** en **Google Colab**. Está basado en la guía académica del programa de formación del SENA, con el objetivo de capacitar en ciencia de datos a través de la exploración, modelado e interpretación de datos reales de clientes.
 
